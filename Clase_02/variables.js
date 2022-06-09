@@ -1,3 +1,4 @@
+/*
 // Esto es lo que no se usa
 var primeraVariable = 1;
 
@@ -17,3 +18,10 @@ const nombreTutor = nombre;
 
 console.log(otroNombre);
 console.log(nombreTutor);
+*/
+
+/*
+const autos = ["fitito", "escarabajo", "renoleta", "chevi", "147"];
+autos.push("falcon")
+console.log(autos);
+*/
