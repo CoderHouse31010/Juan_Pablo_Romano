@@ -1,2 +1,2 @@
-# Juan_P-blo_Romano
+# Juan_Pablo_Romano
 Ejercicios resueltos en clase
