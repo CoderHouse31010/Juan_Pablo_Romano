@@ -15,4 +15,6 @@ miFuncion2().then(
 );
 
 // Como usarlo con async
-let respuesta = await miFuncion();
+//let respuesta = await miFuncion();
+
+console.log(miFuncion2);
