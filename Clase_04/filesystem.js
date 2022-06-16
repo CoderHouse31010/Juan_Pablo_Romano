@@ -30,4 +30,8 @@ fs.writeFileSync('./segundoTexto.txt', 'Esta es la primer linea!', function(err)
     console.log("El archivo ha sido modificado con exito!");
 });
 
-// Esta es la for
+// Esta es la forma de borrar un archivo
+fs.unlink('./borrar.txt', function(err){
+    if (err) throw err;
+    console.log("Su archivo ha sido eliminado con exito!!!")
+});
