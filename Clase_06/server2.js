@@ -6,6 +6,10 @@ app.get('/', (req, res) => {
     res.send('Hola comision 31010!!');
 })
 
+app.get('/clima', (req, res) => {
+    res.send("Hace frio!");
+})
+
 app.listen(port, () => {
     console.log("Tu servidor esta corriendo en el puerto: " + port);
 })
